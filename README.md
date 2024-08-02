@@ -1,10 +1,5 @@
-(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Muhammad hamid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
 <img align="left" alt="Coding" width="900px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamidkhans651&label=Profile%20views&color=0e75b6&style=flat" alt="hamidkhans651" /> </p>
