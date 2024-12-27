@@ -14,9 +14,6 @@ BLOG CodeEclipse
 
 - 📫 How to reach me **muhammadhamid.jj.7@gmail.com
 
-
-src="https://camo.githubusercontent.com/d2cb58e5c621f04160bdcea76d884f25c58830cd28be8560d3999665e4fe890b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966"
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-hamid-a0426a1b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hamid" height="30" width="40" /></a>
