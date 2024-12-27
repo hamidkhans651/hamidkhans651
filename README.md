@@ -12,7 +12,10 @@ BLOG CodeEclipse
 
 - 🔭 I’m currently working on [Project Assignment: Online Imtiaz Mart API Using Event-Driven Microservices Architecture](https://github.com/panaverse/learn-generative-ai/tree/main/ASSIGNMENTS/02_zia_online_mart)
 
-- 📫 How to reach me **muhammadhamid.jj.7@gmail.com**
+- 📫 How to reach me **muhammadhamid.jj.7@gmail.com
+
+
+src="https://camo.githubusercontent.com/d2cb58e5c621f04160bdcea76d884f25c58830cd28be8560d3999665e4fe890b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
