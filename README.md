@@ -7,6 +7,9 @@
 <!-- <img align="left" alt="Coding" width="900px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"> -->
 <br>
 
+
+<a href="https://gitroll.io/profile/uvGVWFjbAA8gC6wbP6M8NoHRHjJ52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvGVWFjbAA8gC6wbP6M8NoHRHjJ52?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 BLOG CodeEclipse
 
 
