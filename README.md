@@ -23,7 +23,7 @@ Porfolio https://portfolio-h3wy.vercel.app/
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Project Assignment: Online Imtiaz Mart API Using Event-Driven Microservices Architecture](https://github.com/panaverse/learn-generative-ai/tree/main/ASSIGNMENTS/02_zia_online_mart)
+<!-- - 🔭 I’m currently working on [Project Assignment: Online Imtiaz Mart API Using Event-Driven Microservices Architecture](https://github.com/panaverse/learn-generative-ai/tree/main/ASSIGNMENTS/02_zia_online_mart)  -->
 
 - 📫 How to reach me **muhammadhamid.jj.7@gmail.com
 
