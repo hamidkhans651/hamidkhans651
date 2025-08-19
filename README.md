@@ -1,7 +1,8 @@
 <h1 align="center">
   Hi 👋, I'm Muhammad Hamid
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+my+profile!;I'm+passionate+Fullstack+AI+!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+my+profile!;" />
+<!--     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+my+profile!;I'm+passionate+Fullsta" /> -->
 </h1>
 
 <!-- <img align="left" alt="Coding" width="900px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"> -->
